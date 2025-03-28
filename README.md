@@ -90,7 +90,7 @@ Expected output:
 ## 📖 Learn More  
 
 Check out the full tutorial:  
-🔗 **[How to Set Custom Headers and Endpoint for Using PezzoAI Proxy with OpenAI’s C# SDK](https://yourblog.com/pezzoai-openai-csharp)**  
+🔗 **[How to Set Custom Headers and Endpoint for Using PezzoAI Proxy with OpenAI’s C# SDK](https://amitmittal.tech/how-to-set-custom-headers-and-endpoint-for-using-pezzoai-proxy-with-openais-official-c-sdk/)**  
 
 ---
 
